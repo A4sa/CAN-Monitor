@@ -1,2 +1,1 @@
-# Detection-and-Measurement-of-Paddy-Leaf-Diseases-using-SVM-Classifier
-The project of Detection and Measurement of Paddy Leaf Diseases using SVM Classifier involves the use of machine learning algorithms to identify and classify different types of diseases affecting paddy leaves. This is achieved through the processing of images of paddy leaves, which are taken using a digital camera or other imaging device.
+
